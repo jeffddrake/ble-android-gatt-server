@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jeffdrake/git/ble-android-gatt-server/BluetoothLeGattSample/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/jeffdrake/git/ble-android-gatt-server/BluetoothLeGattSample/src/debug/assets" />
+    </dataSet>
+
+</merger>
